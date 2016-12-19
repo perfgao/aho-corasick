@@ -1,0 +1,8 @@
+/bin/bash
+bin/bash
+bin
+/bin
+/bash
+bash
+in
+in/ba

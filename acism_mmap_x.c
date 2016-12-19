@@ -56,5 +56,6 @@ on_match(int s, int t, void *c)
 {
     (void)s, (void)t, (void)c;
     ++nmatches;
+    printf("pattern-line: %d\n", s + 1);
     return 0;
 }
