@@ -72,8 +72,8 @@ ok 2 - mmap-ed acism object works
 strs:8 syms:8 chars:40 trans:45 empty:4 mod:4 hash:5 size:788
 ```
 
-* Based on the result information, it can be seen that pattern / bash and bash
-are not matched.
+* Based on the result information, it can be seen that pattern **/bash** and 
+**bash** are not matched.
 
 you can also:
 
